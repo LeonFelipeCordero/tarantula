@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<sitemapindex>
+  <sitemap>
+    <loc>http://localhost:8080/sitemap/a.xml.gz</loc>
+    <lastmod>2018-11-14 20:01:25.725146</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost:8080/sitemap/b.xml.gz</loc>
+    <lastmod>2018-11-14 20:01:25.732372</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost:8080/sitemap/c.xml.gz</loc>
+    <lastmod>2018-11-14 20:01:25.735275</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost:8080/sitemap/d.xml.gz</loc>
+    <lastmod>2018-11-14 20:01:25.738501</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost:8080/sitemap/e.xml.gz</loc>
+    <lastmod>2018-11-14 20:01:25.743120</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,1 @@
+/Users/leonfilipecordero/Documents/tarantula-sample/build/classes/kotlin/main/TarantulaSample.class:/Users/leonfilipecordero/Documents/tarantula-sample/build/classes/kotlin/main/TarantulaSampleKt.class

@@ -1,0 +1,12 @@
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/Utils.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/Spider.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/Crawler.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/sitemap/SitemapSpider.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/sitemap/model/Url.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/sitemap/model/SitemapIndex.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/sitemap/model/UrlSet.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/sitemap/model/Sitemap.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/sitemap/SitemapUtils.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/exceptions/InvalidDataException.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/Requester.kt
+/Users/leonfilipecordero/Documents/tarantula/src/main/kotlin/com/ph/tarantula/logging/Logger.kt
